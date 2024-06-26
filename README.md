@@ -7,4 +7,4 @@ Utilizando el conjunto de datos proporcionado en el archivo vehicles_us.csv, se 
 
 El primer gráfico es un histograma y el segundo es un gráfico de dispersión. 
 
-El link para acceder a la aplicación web es el sigyiente: https://vehicle-web-app.onrender.com
+El link para acceder a la aplicación web es el siguiente: https://vehicle-web-app.onrender.com
